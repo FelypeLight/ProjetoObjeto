@@ -1,0 +1,24 @@
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoObjeto\ProjetoObjeto\bin\Debug\ProjetoObjeto.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoObjeto\ProjetoObjeto\bin\Debug\ProjetoObjeto.exe
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoObjeto\ProjetoObjeto\bin\Debug\ProjetoObjeto.pdb
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.Form1.resources
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.exe
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.pdb
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.Menu.resources
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.Sobre.resources
+F:\DS\ProjetoObjeto\ProjetoObjeto\bin\Debug\ProjetoObjeto.exe.config
+F:\DS\ProjetoObjeto\ProjetoObjeto\bin\Debug\ProjetoObjeto.exe
+F:\DS\ProjetoObjeto\ProjetoObjeto\bin\Debug\ProjetoObjeto.pdb
+F:\DS\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.Form1.resources
+F:\DS\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.login.resources
+F:\DS\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.Menu.resources
+F:\DS\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.Properties.Resources.resources
+F:\DS\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.Sobre.resources
+F:\DS\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.csproj.GenerateResource.cache
+F:\DS\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.csproj.CoreCompileInputs.cache
+F:\DS\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.exe
+F:\DS\ProjetoObjeto\ProjetoObjeto\obj\Debug\ProjetoObjeto.pdb
